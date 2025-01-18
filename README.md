@@ -40,9 +40,7 @@ This project implements two core search algorithms: **Binary Search** and **Line
 3. **Run the program**.
 4. The program will prompt you to input a **list of numbers** and a **target value**.
 5. It will then perform both **Linear Search** and **Binary Search** (if the list is sorted) and display the **index** of the target element if found. If not found, it will indicate that the target does **not exist** in the list.
-
-
-you can also use onlie compiler to run algorithm , like programiz python compiler 
+   **you can also use online compiler to run algorithm , like online python compiler (interpret)-programiz** 
 ---
 
 ## **LinkedIn Post**
