@@ -43,5 +43,9 @@ This project implements two core search algorithms: **Binary Search** and **Line
 
 ---
 
+## **LinkedIn Post**
 
+You can view the **LinkedIn post** showcasing the project and my learning journey through implementing these algorithms [here](https://www.linkedin.com/posts/hamza-ali-2644742b8_github-hamzaali9831binary-vs-linear-search-activity-7286474199290761216-8NGW?utm_source=social_share_sheet&utm_medium=member_desktop_web).
+
+---
 
